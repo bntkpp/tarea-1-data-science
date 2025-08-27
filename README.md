@@ -1,6 +1,6 @@
 # Tarea 1 | Data Science
 
-## Para esta tarea se solicita implementar un codigo que resuelva estos 4 problemas:
+## Para esta tarea se solicita implementar un codigo que resuelva estos 5 problemas:
 
 1. Calcula el promedio de notas de cada estudiante y determina quien tiene el promedio mas bajo y mas alto
 
